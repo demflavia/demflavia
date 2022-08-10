@@ -6,3 +6,4 @@
 - 🔭 Estou a procura de um estágio ou primeiro emprego na área Tech
 - ⚡ Curiosidade sobre mim: amo montar quebra cabeças e conversar sobre aquário!
 
+![Snake animation](https://github.com/demflavia/demflavia/blob/output/github-contribution-grid-snake.svg)
