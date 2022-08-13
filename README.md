@@ -1,4 +1,4 @@
-### Olá! eu sou a Flávia 👋
+### Olá! Eu sou a Flávia 👋
 
 - 💼 Hoje trabalho no atendimento ao cliente da Zamix;
 - 🎓 Sou estudante da faculdade de Sistemas para Internet (1/5);
